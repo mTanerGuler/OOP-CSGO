@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-CSGO", "OOP-CSGO\OOP-CSGO.csproj", "{403840D5-FE51-457C-B39F-F33F81BDEEED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{403840D5-FE51-457C-B39F-F33F81BDEEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403840D5-FE51-457C-B39F-F33F81BDEEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403840D5-FE51-457C-B39F-F33F81BDEEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403840D5-FE51-457C-B39F-F33F81BDEEED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A406F57D-0E44-4B60-A98D-8E0A9533626F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace OOP_CSGO.Enums
+{
+   enum BulletType
+    {
+        Saçma,
+        Çekirdekli,
+        Top,
+        Roket,
+    }
+}
